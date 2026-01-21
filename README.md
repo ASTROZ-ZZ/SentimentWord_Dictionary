@@ -1,0 +1,1 @@
+# SentimentWord_Dictionary
